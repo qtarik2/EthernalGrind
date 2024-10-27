@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ethernalgrind.twiterauth",
+      "sha256_cert_fingerprints": [
+        "30:27:F0:08:6D:8C:47:06:C8:4D:B9:9A:4B:95:5D:BF:84:69:40:61:9B:DD:1D:72:A0:14:F8:B3:77:99:80:CF"
+      ]
+    }
+  }
+]
